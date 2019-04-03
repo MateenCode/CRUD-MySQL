@@ -1,5 +1,5 @@
 # CRUD-MySQL
-A demonstrate of CRUD method Node🔥 + SQL📊
+A demonstrate of CRUD method Node + SQL📊
 
 
 ## ScreenShot
